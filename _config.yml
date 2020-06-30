@@ -11,8 +11,8 @@ sass:
 permalink: /posts/:title/
 texture:
   title: NoSchoolTeam
-  tagline: Developer. Designer
-  date_format: "%-b %-d, %Y"
+  tagline: 反学校的一个组织
+  date_format: "%Y-%m-%d %H:%M"
   style: black
   showNav: false
   showPicker: true
