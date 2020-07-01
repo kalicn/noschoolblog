@@ -1,0 +1,35 @@
+---
+layout: post
+date: 2020-07-01
+title: DDOS攻击你的学校网站
+---
+
+一起来毁你的学校网站吧（我要进公安局了[滑稽])
+
+# 什么是DDOS攻击？
+
+就是用程序模拟人无限访问网站使其瘫痪。也可以这么想：你开了一家餐馆，隔壁老李（可以不姓李）找了一堆 流_氓进你的店占座位，抢别人的坐，使别人没办法进去
+反正光讲没用，得演示
+
+就像这样：
+
+
+ 
+![A](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9nc3MwLmJkc3RhdGljLmNvbS85NG8zZFNhZ194STRraEdrcG9XSzFIRjZoaHkvYmFpa2UvYzA9YmFpa2U4MCw1LDUsODAsMjYvc2lnbj05NWI1YmUxODhmY2IzOWRiZDVjZDZmMDRiMTdmNjI0MS83YWNiMGE0NmYyMWZiZTA5MjMxMjE5ZTY2NTYwMGMzMzg2NDRhZGYwLmpwZw?x-oss-process=image/format,png)
+
+****************************************************************************我是分割线~*************************************************************
+
+
+网上搜索：Low Orbit lon cannon，然后下载
+
+**WARNING** Windows10 可能会报有病毒，删你文件，只需提前进入Windows Defender -> 病毒和威胁防护 -> 病毒和威胁防护设置 关闭实时保护就行了
+
+
+下的应该是一个.zip文件双击下好的文件解压，然后运行第一个文件，然后界面应该是这样的：
+
+![B](https://img-blog.csdnimg.cn/20191214130751257.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2d1b3ppcnVpMTI=,size_16,color_FFFFFF,t_70）
+
+输入网址，再输入IP，不知道？Win+X按命令提示符输入ping 你想攻击的网站，然后结果就出来了
+单机"Lock On" ，再点击IMMA CHARGIN MAH LAZER，哇哈哈开始攻击了
+等上一个小时就行了
+
