@@ -1,7 +1,7 @@
 ---
 layout: post
+title: DDOS攻击你学校网站
 date: 2020-07-01
-title: DDOS攻击你的学校网站
 ---
 
 一起来毁你的学校网站吧（我要进公安局了[滑稽])
